@@ -1,6 +1,6 @@
 /* body */
 body{
-  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/657602923781554197/xtU31Id_1.png");
+  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/660384450663940097/6lJI3cd.jpg?width=932&height=548");
   background-size: cover;
   background-attachment: fixed;
   margin: 0px;
@@ -16,6 +16,8 @@ body{
 .d{
   color: gray;
 }
+
+
 
 
 
@@ -64,9 +66,14 @@ body{
   padding-bottom: 0.3vw;
 }
 
-.hll{
+.hlb{
   font-size: 1.3vw;
   padding-left: 5vw;
+  padding-right: 4vw;
+}
+
+.hll{
+  font-size: 1.3vw;
   padding-right: 4vw;
 }
 
