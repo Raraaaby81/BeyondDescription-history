@@ -90,6 +90,88 @@ body{
 
 
 /* main */
+.main{
+  background-color: #ffffffe6;
+  margin: 7vw 10vw;
+  padding: 3vw 8vw;
+  border: 2px solid aqua;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+.ht{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 1vw;
+  border-bottom:medium solid black;
+  margin-bottom: 1vw;
+}
+
+.hd{
+  font-family: YuMincho;
+  border-left: thin solid #737373;
+  border-right: thin solid #737373;
+  padding: 1vw 5vw;
+}
+
+/* Chapter 1 */
+.h1{
+  border: solid thin #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 2vw;
+  background-color: #00ffff17;
+}
+.ht1{
+  font-size: 1.5vw;
+}
+.ht2{
+  font-size: 2vw;
+  padding-left: 1vw;
+  padding-bottom: 0.3vw;
+}
+.hdd{
+  font-size: 1.3vw;
+  padding-left: 3vw;
+}
+.hddd{
+  font-size: 1.1vw;
+  color: #4e4c58;
+}
+
+/* Chapter 2 */
+.h2{
+  border: solid thin #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 2vw;
+  background-color: #ff000017;
+}
+
+/* Chapter 3 */
+.h3{
+  border: solid thin #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 2vw;
+  background-color: #ce32cc17;
+}
+
+/* Chapter 4 */
+.h4{
+  border: solid thin #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 2vw;
+  background-color: #25e81417;
+}
+
+/* Chapter 5 */
+.h5{
+  border: solid thin #e6e6e6;
+  padding: 0.5vw 1vw;
+  margin-bottom: 2vw;
+  background-color: #c0ce3217;
+}
+.ht21{
+  font-size: 1.5vw;
+}
 
 
 
