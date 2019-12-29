@@ -59,7 +59,7 @@ body{
 .hlist li{
   float: left;
   list-style: none;
-  background-color: aqua;
+  background-color: #627cd042;
   color: white;
   margin: 0px;
   padding-top: 0.3vw;
@@ -99,20 +99,12 @@ footer{
   font-size: 2.5vw;
   margin: 0px;
   padding: 0px;
-  background-color: #24292e;
+  background-color: #0a0b0ce6;
   box-shadow: 0 0 10vw,0 0 2vw inset;
 }
 
 .footer{
   padding: 1vw 1vw;
-}
-
-
-/* footer-contact us */
-.fc{
-  color:white;
-  font-size: 2vw;
-  border: thin solid gray;
 }
 
 .footer li{
@@ -121,18 +113,39 @@ footer{
   padding-left: 2vw;
 }
 
+/* footer-Official Info */
+.oi{
+  color:white;
+  font-size: 2vw;
+  padding: 0.5vw 1vw;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  border: thin solid gray;
+}
+.oihf{
+}
+.oihm{
+}
+.oipi{
+}
+
+/* footer-Contact Us */
+.fc{
+  color:white;
+  font-size: 2vw;
+  padding: 0.5vw 1vw;
+  border: thin solid gray;
+}
 .fcd{
 }
-
 .fcg{
 }
-
 
 /* footer-name */
 .fn{
   font-size: 1.3vw;
   color: purple;
   padding-top: 1vw;
-  padding-bottom: 2vw;
+  padding-bottom: 1vw;
   padding-left: 85vw;
 }
