@@ -94,7 +94,7 @@ body{
   background-color: #ffffffe6;
   margin: 7vw 10vw;
   padding: 3vw 8vw;
-  border: 2px solid aqua;
+  border: 2px solid red;
   box-shadow: 0 0 10px rgba(0,0,0,1);
 }
 
@@ -116,7 +116,7 @@ body{
 
 /* Chapter 1 */
 .h1{
-  border: solid thin #e6e6e6;
+  border: solid thin #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 2vw;
   background-color: #00ffff17;
@@ -140,7 +140,7 @@ body{
 
 /* Chapter 2 */
 .h2{
-  border: solid thin #e6e6e6;
+  border: solid thin #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 2vw;
   background-color: #ff000017;
@@ -148,7 +148,7 @@ body{
 
 /* Chapter 3 */
 .h3{
-  border: solid thin #e6e6e6;
+  border: solid thin #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 2vw;
   background-color: #ce32cc17;
@@ -156,7 +156,7 @@ body{
 
 /* Chapter 4 */
 .h4{
-  border: solid thin #e6e6e6;
+  border: solid thin #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 2vw;
   background-color: #25e81417;
@@ -164,7 +164,7 @@ body{
 
 /* Chapter 5 */
 .h5{
-  border: solid thin #e6e6e6;
+  border: solid thin #b5b5b5;
   padding: 0.5vw 1vw;
   margin-bottom: 2vw;
   background-color: #e8ff0017;
