@@ -1,241 +1,149 @@
-/* body */
-body{
-  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/660384450663940097/6lJI3cd.jpg?width=932&height=548");
-  background-size: cover;
-  background-attachment: fixed;
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
-}
-
-
-.tc{
-  color: #ffd900;
-}
-
-.d{
-  color: gray;
-}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>The history</title>
+    <link rel="stylesheet" type="text/css" href="BeyondDHistory.css">
+  </head>
 
 
 
 
 
-/* header */
-.hlogo {
-  font-family: "Franklin Gothic Medium";
-  color: Blue;
-  font-size: 2.5vw;
-  margin: 0px;
-  padding: 0.1vw 0vw 0vw 0.5vw;
-  background-color: white;
-  background: linear-gradient(to bottom, #224150d4, transparent);
-}
-.hbti{
-  font-size: 1.5vw;
-  color: #0095ffba;
-  margin: 0vw;
-  padding-left: 3vw;
-}
-
-
-.header{
-  background-color: white;
-  margin: 0px;
-  padding: 0px,20px,0px,20px;
-  box-shadow: 0 0 3px rgba(0,0,0,0.2);
-}
-
-.hlist{
-  margin: 0px;
-  border: thin solid black;
-}
-
-.hlist ul{
-  margin: 0px;
-  padding-left: 0px;
-}
-
-.hlist li{
-  float: left;
-  list-style: none;
-  background-color: #627cd042;
-  color: white;
-  margin: 0px;
-  padding-top: 0.3vw;
-  padding-bottom: 0.3vw;
-}
-
-.hlb{
-  font-size: 1.3vw;
-  padding-left: 5vw;
-  padding-right: 4vw;
-}
-
-.hll{
-  font-size: 1.3vw;
-  padding-right: 4vw;
-}
-
-.hlh{
-  font-size: 1.3vw;
-  padding-right: 4vw;
-}
-
-.hld{
-  font-size: 1.3vw;
-  padding-right: 5.5vw;
-}
+  <body>
+    <header>
+        <div class="hlogo">
+          Beyond Description<br>
+          <span class="hbti">Beyond the impossible</span>
+        </div>
+      </header>
 
 
 
-/* main */
-.main{
-  background-color: #ffffffe6;
-  margin: 7vw 10vw;
-  padding: 3vw 8vw;
-  border: 2px solid red;
-  box-shadow: 0 0 10px rgba(0,0,0,1);
-}
-
-.ht{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-top: 2vw;
-  padding-left: 1vw;
-  border-bottom:medium solid black;
-  margin-bottom: 1vw;
-}
-
-.hd{
-  font-family: YuMincho;
-  border-left: thin solid #737373;
-  border-right: thin solid #737373;
-  padding: 1vw 5vw;
-}
-
-/* Chapter 1 */
-.h1{
-  border: solid thin #b5b5b5;
-  padding: 0.5vw 1vw;
-  margin-bottom: 2vw;
-  background-color: #00ffff17;
-}
-.ht1{
-  font-size: 1.5vw;
-}
-.ht2{
-  font-size: 2vw;
-  padding-left: 1vw;
-  padding-bottom: 0.3vw;
-}
-.hdd{
-  font-size: 1.3vw;
-  padding-left: 3vw;
-}
-.hddd{
-  font-size: 1.1vw;
-  color: #4e4c58;
-}
-
-/* Chapter 2 */
-.h2{
-  border: solid thin #b5b5b5;
-  padding: 0.5vw 1vw;
-  margin-bottom: 2vw;
-  background-color: #ff000017;
-}
-
-/* Chapter 3 */
-.h3{
-  border: solid thin #b5b5b5;
-  padding: 0.5vw 1vw;
-  margin-bottom: 2vw;
-  background-color: #ce32cc17;
-}
-
-/* Chapter 4 */
-.h4{
-  border: solid thin #b5b5b5;
-  padding: 0.5vw 1vw;
-  margin-bottom: 2vw;
-  background-color: #25e81417;
-}
-
-/* Chapter 5 */
-.h5{
-  border: solid thin #b5b5b5;
-  padding: 0.5vw 1vw;
-  margin-bottom: 2vw;
-  background-color: #e8ff0017;
-}
-.ht21{
-  font-size: 1.5vw;
-}
+      <div class="header">
+        <div class="hlist">
+          <ul>
+            <li class="hlb"><a class="hlist" href="http://raraaaby81.github.io/BeyondDescription/">Home</a></li>
+            <li class="hll"><a class="hlist" href="https://raraaaby81.github.io/BeyondDescription-member/">Member List</a></li>
+            <li class="hlh"><a class="hlist" href="https://raraaaby81.github.io/BeyondDescription-history/">History</a></li>
+            <li class='hld'><a class="hlist" href="https://raraaaby81.github.io/BeyondDescription-discord/">Discord</a></li>
+          </ul>
+        </div>
+      </div>
 
 
 
-/* footer */
-footer{
-  font-family: arial;
-  font-size: 2.5vw;
-  margin: 0px;
-  padding: 0px;
-  background-color: #0a0b0ce6;
-  box-shadow: 0 0 10vw,0 0 2vw inset;
-}
+      <div class="main">
+        <div class="ht">
+          <strong>History</strong>
+        </div>
+        <div class="hd">
+          <div class="h1">
+            <div class="ht1">
+              <strong><i>Chapter 1</i></strong>
+            </div>
+            <div class="ht2">
+            <strong><u>Guild Founding</u></strong>
+            </div>
+            <div class="hdd">
+              <span class="hddd"><i>2016/08/21 06:31:51</i></span><br>
+              "Beyond Description" was founded by Kurumi_k921.<br>
+              Once, this guild was named "Likers".<br>
+            </div>
+          </div>
+          <div class="h2">
+            <div class="ht1">
+              <strong><i>Chapter 2</i></strong>
+            </div>
+            <div class="ht2">
+              <strong><u>Stagnation... and Rapid Growth</u></strong>
+            </div>
+            <div class="hdd">
+              <span class="hddd"><i>For two year and 2018 January</i></span><br>
+              For about one and a half years, only 30 players were in this guild.<br>
+              No new members joined for a long time.<br>
+              In 2018 January, so many people joined this guild.<br>
+              Three month later, there were over 120 players in this guild.<br>
+              Guilds were confused by the rapid increase in people.<br>
+            </div>
+          </div>
+          <div class="h3">
+            <div class="ht1">
+              <strong><i>Chapter 3</i></strong>
+            </div>
+            <div class="ht2">
+              <strong><u>Betrayal... and Ruin</u></strong>
+            </div>
+            <div class="hdd">
+              <span class="hddd"><i>June 2018</i></span><br>
+              <strong>This is the guild's biggest history.</strong><br>
+              Without this event, the guild would probably have collapsed....but...collapsed in this event...<br>
+              That collapsed event is the betrayal of the guild members.<br>
+              In January 2018, a member attempted to destroy this guild.<br>
+              His name is Ravenblack_angel.<br>
+              He attempted to expel all members with some other members.<br>
+              In fact, that happened, the guild had only four people, kurumi and three of the officer ranks (At that time, there were only master, officer, and member ranks for default ranks. We could n't edit them.).<br>
+              With this opportunity, I rebuilt the guild from the base.<br>
+              At that time, the guild's name was changed to "Hope your dream".<br>
+              Thanks to this event, the foundation for the current "Beyond Descripotion" has been completed.<br>
+            </div>
+          </div>
+          <div class="h4">
+            <div class="ht1">
+              <strong><i>Chapter 4</i></strong>
+            </div>
+            <div class="ht2">
+              <strong><u>Second Rapid Growth</u></strong>
+            </div>
+            <div class="hdd">
+              <span class="hddd"><i>From May 2018.... to Now</i></span><br>
+              Then this guild grew fast again.<br>
+              See when the guild members joined.<br>
+              You can see that many members have joined after May 2018.<br>
+              This member is now a member of "BD".<br>
+            </div>
+          </div>
+          <div class="h5">
+            <div class="ht1">
+              <strong><i>Chapter 5</i></strong>
+            </div>
+            <div class="ht21">
+              <strong><u>Beyond Everything... Beyond tragedy.... Even Description...</u></strong>
+            </div>
+            <div class="hdd">
+              <span class="hddd"><i>Now</i></span><br>
+              We renamed our guild <i>"Beyond Description"</i>.<br>
+              Now we are here beyond everything... of course... that tragedy, too...
+            </div>
+          </div>
+        </div>
+      </div>
 
-.footer{
-  padding: 1vw 1vw;
-}
 
-.footer li{
-  list-style: none;
-  font-size: 1.3vw;
-  padding-left: 2vw;
-}
 
-/* footer-Official Info */
-.oi{
-  color:white;
-  font-size: 2vw;
-  padding: 0.5vw 1vw;
-  margin-top: 1vw;
-  margin-bottom: 1vw;
-  border: thin solid gray;
-}
-.oihf{
-}
-.oihm{
-}
-.oipi{
-}
 
-/* footer-Contact Us */
-.fc{
-  color:white;
-  font-size: 2vw;
-  padding: 0.5vw 1vw;
-  border: thin solid gray;
-}
-.fcd{
-}
-.fcg{
-}
+      <footer>
+        <div class="footer">
+          <div class="oi">
+            Official info
+            <li><a class="oihf" href="https://hypixel.net/guilds/Beyond+Description/">Hypixel Forum Info (There is nothing)</a></li>
+            <li><a class="oihm" href="https://hypixel.net/guilds/Beyond+Description/members">Hypixel Forum Member List</a></li>
+            <li><a class="oipi" href="https://plancke.io/hypixel/guild/name/beyond%20description">Planke Info</a></li>
 
-/* footer-name */
-.fn{
-  font-size: 1.3vw;
-  color: purple;
-  padding-top: 1vw;
-  padding-bottom: 1vw;
-  padding-left: 85vw;
-}
-.fnm{
-  color: #191f25b0;
-  font-size: 1.5vw;
-  padding-left: 2vw;
-}
+          </div>
+          <div class="fc">
+            Contact us
+            <li><a class="fcd" href="https://raraaaby81.github.io/BeyondDescription-discord/">Discord</a></li>
+            <li><a class="fcg" href="https://docs.google.com/forms/d/e/1FAIpQLSe3ExuehKW8CXCplZ9n3pUrVqLFMx0Bm9fU-2s73rGrP2dc5Q/viewform?usp=sf_link">Google Form</a></li>
+          </div>
+          <div class="fn">
+            Beyond Description
+            <span class="fnm"><i><a href="https://raraaaby81.github.io/BeyondDescription-secret-Aliey/">Secret Page3</a></i></span>
+          </div>
+        </div>
+      </footer>
+  </body>
+</html>
 
-/* Beyond Description */
-/* Kurumi_k921 */
+<!-- Beyond Description -->
+<!-- Kurumi_k921 -->
